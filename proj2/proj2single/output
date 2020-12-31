@@ -1,0 +1,14 @@
+Script started on Tue 22 Oct 2019 07:49:05 PM CDT
+[?1034h[1;35m{tch170130@cslinux1: ~}$ [mcd cd[Kcs[K[Ks5
+[1;35m{tch170130@cslinux1: ~/cs5}$ [mcd proj2
+[1;35m{tch170130@cslinux1: ~/cs5/proj2}$ [m./a.out a.txt b.txt ct[K.ttx[K[Kxt
+^C
+[1;35m{tch170130@cslinux1: ~/cs5/proj2}$ [mdate
+Tue Oct 22 19:49:27 CDT 2019
+[1;35m{tch170130@cslinux1: ~/cs5/proj2}$ [mdate./a.out a.txt b.txt c.txt
+[1;35m{tch170130@cslinux1: ~/cs5/proj2}$ [mdate
+Tue Oct 22 19:50:04 CDT 2019
+[1;35m{tch170130@cslinux1: ~/cs5/proj2}$ [mexit
+exit
+
+Script done on Tue 22 Oct 2019 07:50:07 PM CDT
